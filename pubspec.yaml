@@ -43,7 +43,7 @@ dependencies:
   #Functional programming
   dartz: ^0.10.1
   #Remote API
-  connectivity: ^3.0.6
+  internet_connection_checker: ^0.0.1
   http: ^0.13.4
   #Local cache
   shared_preferences: ^2.0.15
